@@ -18,7 +18,7 @@ pyparsing==3.2.3
 python-dateutil==2.9.0.post0
 qleo==0.1.22
 quantanium==0.1.14
-requests==2.32.3
+requests==2.32.4
 scipy==1.15.2
 six==1.17.0
 symengine==0.14.0

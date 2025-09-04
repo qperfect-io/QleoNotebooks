@@ -1,2 +1,2 @@
 # QleoNotebooks
-Public Notebooks teaching usage od the QLEO framework
+Public Notebooks teaching usage of the QLEO framework
